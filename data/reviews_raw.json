@@ -1,0 +1,362 @@
+[
+  {
+    "review_id": "mock_0001",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_7774",
+    "rating": 2,
+    "text": "Clean, fast, and the portion sizes are generous. Great value for money.",
+    "date": "2025-08-08",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0002",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_9846",
+    "rating": 5,
+    "text": "Way too loud inside. Couldn't hear my friend sitting across from me.",
+    "date": "2025-10-28",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0003",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_1794",
+    "rating": 5,
+    "text": "Waited 25 minutes for a simple order. The place was barely half full \u2014 no excuse for that.",
+    "date": "2025-09-20",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0004",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3477",
+    "rating": 5,
+    "text": "Love the product but the loyalty app needs serious work \u2014 keeps logging me out.",
+    "date": "2025-09-16",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0005",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_4656",
+    "rating": 2,
+    "text": "The staff were incredibly friendly and the food came out hot and fresh. Will definitely be back!",
+    "date": "2025-10-05",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0006",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_4535",
+    "rating": 5,
+    "text": "Clean, fast, and the portion sizes are generous. Great value for money.",
+    "date": "2025-07-14",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0007",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_6209",
+    "rating": 2,
+    "text": "Ordered online and the food was ready exactly when promised. Seamless experience.",
+    "date": "2025-10-11",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0008",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_6899",
+    "rating": 5,
+    "text": "Waited 25 minutes for a simple order. The place was barely half full \u2014 no excuse for that.",
+    "date": "2026-02-07",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0009",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_8165",
+    "rating": 2,
+    "text": "Ordered online and the food was ready exactly when promised. Seamless experience.",
+    "date": "2025-07-02",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0010",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_1686",
+    "rating": 5,
+    "text": "Way too loud inside. Couldn't hear my friend sitting across from me.",
+    "date": "2026-01-04",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0011",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_9768",
+    "rating": 5,
+    "text": "The new location looks amazing but the quality isn't quite as good as the old one.",
+    "date": "2025-05-26",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0012",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_2413",
+    "rating": 1,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2025-04-03",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0013",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_5618",
+    "rating": 4,
+    "text": "Got my order completely wrong twice in a row. Staff didn't seem too bothered about fixing it.",
+    "date": "2026-02-11",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0014",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3342",
+    "rating": 4,
+    "text": "Service varies wildly depending on who's working. Hit or miss.",
+    "date": "2025-10-05",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0015",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_8273",
+    "rating": 2,
+    "text": "Cold chips. I asked for them to be replaced and was told that's just how they are. Unbelievable.",
+    "date": "2025-06-12",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0016",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_7310",
+    "rating": 1,
+    "text": "Way too loud inside. Couldn't hear my friend sitting across from me.",
+    "date": "2026-01-27",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0017",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_5294",
+    "rating": 5,
+    "text": "Best coffee I've had in months. The barista remembered my order the second time I visited.",
+    "date": "2025-11-16",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0018",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_1562",
+    "rating": 3,
+    "text": "The app kept crashing when I tried to order. Eventually gave up and went somewhere else.",
+    "date": "2025-10-09",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0019",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_6193",
+    "rating": 5,
+    "text": "Best coffee I've had in months. The barista remembered my order the second time I visited.",
+    "date": "2025-05-07",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0020",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_8215",
+    "rating": 5,
+    "text": "The manager sorted out our complaint really well but it shouldn't have happened in the first place.",
+    "date": "2025-12-01",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0021",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_2031",
+    "rating": 4,
+    "text": "Absolutely loved the atmosphere. The manager even came over to check on us \u2014 rare these days.",
+    "date": "2025-11-04",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0022",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_7107",
+    "rating": 4,
+    "text": "The new menu items are fantastic. The seasonal special was a highlight.",
+    "date": "2025-09-30",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0023",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_5827",
+    "rating": 5,
+    "text": "Absolutely loved the atmosphere. The manager even came over to check on us \u2014 rare these days.",
+    "date": "2026-02-02",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0024",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_4239",
+    "rating": 2,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2025-07-09",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0025",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3785",
+    "rating": 2,
+    "text": "Ordered online and the food was ready exactly when promised. Seamless experience.",
+    "date": "2025-11-08",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0026",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_1112",
+    "rating": 3,
+    "text": "The app kept crashing when I tried to order. Eventually gave up and went somewhere else.",
+    "date": "2025-04-11",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0027",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_8018",
+    "rating": 5,
+    "text": "Kids loved it and the staff were patient with our chaos. Family-friendly at its best.",
+    "date": "2025-12-15",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0028",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_1993",
+    "rating": 4,
+    "text": "Service varies wildly depending on who's working. Hit or miss.",
+    "date": "2025-05-25",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0029",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_8522",
+    "rating": 4,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2025-11-21",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0030",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3902",
+    "rating": 3,
+    "text": "Tables were sticky and hadn't been wiped down. First impression matters.",
+    "date": "2025-06-15",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0031",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3961",
+    "rating": 5,
+    "text": "Food was great but the wait was too long. Would come back at a quieter time.",
+    "date": "2025-12-14",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0032",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3310",
+    "rating": 3,
+    "text": "Got my order completely wrong twice in a row. Staff didn't seem too bothered about fixing it.",
+    "date": "2025-04-08",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0033",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_2950",
+    "rating": 5,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2025-09-03",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0034",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_4555",
+    "rating": 5,
+    "text": "Best coffee I've had in months. The barista remembered my order the second time I visited.",
+    "date": "2025-07-11",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0035",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_4949",
+    "rating": 5,
+    "text": "The manager sorted out our complaint really well but it shouldn't have happened in the first place.",
+    "date": "2025-09-15",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0036",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_9194",
+    "rating": 5,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2026-02-18",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0037",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_3032",
+    "rating": 5,
+    "text": "Best coffee I've had in months. The barista remembered my order the second time I visited.",
+    "date": "2026-02-19",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0038",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_9865",
+    "rating": 4,
+    "text": "Service varies wildly depending on who's working. Hit or miss.",
+    "date": "2025-09-02",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0039",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_5178",
+    "rating": 1,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2025-06-19",
+    "source": "mock_data"
+  },
+  {
+    "review_id": "mock_0040",
+    "business_name": "Brew & Co Coffee",
+    "author": "User_8824",
+    "rating": 2,
+    "text": "Parking was easy and the service was lightning fast. Very impressed.",
+    "date": "2025-10-04",
+    "source": "mock_data"
+  }
+]
